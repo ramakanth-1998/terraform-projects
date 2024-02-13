@@ -7,5 +7,6 @@ pipeline {
                 echo 'Hello rammy'
             }
         }
+ 
     }
 }
